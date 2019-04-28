@@ -1,0 +1,60 @@
+.All{
+		
+    text-align: center;
+    align-self: center;
+}
+
+.Title{
+
+    background-color:red;
+width:750;
+height:100px;
+font-size: 130%;
+font-weight: bold;
+
+}
+.btn {
+		font-weight: bold;
+		color:white;
+		border-radius: 5px;
+		text-align: center;
+		border:none;
+		width:180px;
+		height:40px;
+		margin-left:0px;
+		cursor:pointer;
+		background-color:  rgb(59, 168, 231); 
+	
+	 }
+
+.Details
+{
+    line-height: 1.5;
+    width:710px;
+    font-size: 140%;
+  
+
+}
+
+.author{
+
+    font-weight: bold;
+	
+}
+.choosefilefield{
+margin-left:310px;
+}
+.editedimage{
+
+    height: 396px;
+	width:703px;
+	
+}
+.ArticleContent{
+
+    line-height: 1.5;
+    font-size: 140%;
+width:800px;
+height:800px;    
+
+}

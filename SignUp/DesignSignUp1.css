@@ -1,0 +1,73 @@
+
+    .box {
+        margin-left: 450px;
+        margin-top: 190pt;
+        width: 500px;
+        border: 1px solid grey;
+        height:auto;
+        background-color: rgb(230, 235, 238);
+    }
+    
+    #readerbtn 
+    {
+        background-color: black;
+        color: rgb(59, 168, 231);      
+    }
+
+    button
+    {
+        display: inline;
+        width: 247px;
+        height: 100px;
+        cursor:pointer;
+        border:none;
+        background-color:  rgb(59, 168, 231); 
+        transition: 0.3s;
+        font-size: 20px;
+    }
+    .tabs button:hover {
+    background-color: black;
+    color:   rgb(59, 168, 231); 
+}
+
+    .tabs {
+       background-color:  rgb(59, 168, 231);  
+      
+    }
+
+
+    .registerBtn {
+        background-color:  rgb(59, 168, 231); 
+        border-radius: 5px;
+        text-align: center;
+        border:none;
+        width:180px;
+        height:40px;
+        margin-left:100px;                                   
+        cursor:pointer;
+        }
+
+    .content {
+        display:none;
+        padding-left: 50px;
+        padding-top: 40px;
+    }
+    .regtxt
+    {
+        width:400px;
+    height:40px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    
+    }
+   
+    .error {
+        color:red;
+    }
+
+    .content span {
+        
+        color:   rgb(59, 168, 231); 
+       
+    }
+    
